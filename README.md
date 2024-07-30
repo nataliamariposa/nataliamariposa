@@ -1,6 +1,9 @@
-## Hello there! I'm a student at Williams College who is double majoring in computer science and classics and is interested in working in game development.
+## Hello there! 👋
+I'm a student at Williams College who is double majoring in computer science and classics and is interested in working in game development. 🎮
 
 ![cat header picture](https://imgur.com/xpOeFCZ.jpg)
+
+Proficient in Python 🐍 and Java
 
 `Computer Science Coursework:`
  - Introduction to Computer Science
