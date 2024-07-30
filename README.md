@@ -1,6 +1,6 @@
 ## Hello there! I'm a student at Williams College who is double majoring in computer science and classics and is interested in working in game development.
 
-![cat header picture](https://imgur.com/a/xSaDKZ8)
+![cat header picture](https://imgur.com/xpOeFCZ.jpg)
 
 `Computer Science Coursework:`
  - Introduction to Computer Science
