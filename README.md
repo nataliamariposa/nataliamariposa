@@ -1,9 +1,11 @@
 ## Hello there! I'm a student at Williams College who is double majoring in computer science and classics and is interested in working in game development.
 
+![cat header picture](https://imgur.com/a/xSaDKZ8)
+
 `Computer Science Coursework:`
  - Introduction to Computer Science
  - Data Structures and Advanced Programming
-    - Final Project Code available
+    - Final Project Code available [here](https://github.com/nataliamariposa/CS136-Final-Project.git)
  - Discrete Mathematics
  - Linear Algebra
 
