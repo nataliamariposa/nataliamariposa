@@ -14,7 +14,7 @@ Proficient in Python, Java, GML.
  - Linear Algebra
  - Principles of Programming Languages
     - Final Project: CardBoulevard, our own domain-specific programming language targeted towards custom card game creation and development.
-    - Code available [here]()
+    - Code available [here](https://github.com/nataliamariposa/CS334-Final-Project.git)
 
 
 <!--
