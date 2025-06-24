@@ -16,7 +16,11 @@ Proficient in Python, Java, F#, GML.
     - Final Project: CardBoulevard, our own domain-specific programming language targeted towards custom card game creation and development.
     - Code available [here](https://github.com/nataliamariposa/CS334-Final-Project.git)
 
-
+`Personal Projects:`
+- 2025 NES Game Jam Submission through Itch.io
+    - Developed using GameMaker Studio 2.0, and published through Itch.io. Main language is GML.
+    - Game Page available [here](https://nataliamariposa.itch.io/styx-bound)
+    - Source game code available [here]()
 <!--
 **nataliamariposa/nataliamariposa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
