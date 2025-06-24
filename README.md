@@ -3,14 +3,18 @@ I'm a student at Williams College who is double majoring in computer science and
 
 ![cat header picture](https://imgur.com/xpOeFCZ.jpg)
 
-Proficient in Python 🐍 and Java
+Proficient in Python, Java, GML.
 
 `Computer Science Coursework:`
  - Introduction to Computer Science
  - Data Structures and Advanced Programming
-    - Final Project Code available [here](https://github.com/nataliamariposa/CS136-Final-Project.git)
+    - Final Project: HATboxd, our complete implementation of the Hashed Array Tree data structure into a movie recommendation application.
+    - Code available [here](https://github.com/nataliamariposa/CS136-Final-Project.git)
  - Discrete Mathematics
  - Linear Algebra
+ - Principles of Programming Languages
+    - Final Project: CardBoulevard, our own domain-specific programming language targeted towards custom card game creation and development.
+    - Code available [here]()
 
 
 <!--
