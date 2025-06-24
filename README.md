@@ -3,7 +3,7 @@ I'm a student at Williams College who is double majoring in computer science and
 
 ![cat header picture](https://imgur.com/xpOeFCZ.jpg)
 
-Proficient in Python, Java, GML.
+Proficient in Python, Java, F#, GML.
 
 `Computer Science Coursework:`
  - Introduction to Computer Science
