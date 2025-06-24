@@ -17,7 +17,9 @@ Proficient in Python, Java, F#, GML.
     - Code available [here](https://github.com/nataliamariposa/CS334-Final-Project.git)
 
 `Personal Projects:`
-- 2025 NES Game Jam Submission through Itch.io
+  - ## Styx Bound
+![styxbound cover](https://imgur.com/a/u0ux9Rx)
+    - 2025 Nes Game Jam Submission
     - Developed using GameMaker Studio 2.0, and published through Itch.io. Main language is GML.
     - Game Page available [here](https://nataliamariposa.itch.io/styx-bound)
     - Source game code available [here]()
